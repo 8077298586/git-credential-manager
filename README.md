@@ -1,4 +1,4 @@
-# Git Credential Manager
+# Git Credential Manager arma1
 
 [![Build Status][build-status-badge]][workflow-status]
 
